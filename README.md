@@ -1,5 +1,10 @@
 # OBD
-강서특구 탄소 배출량 예측 솔루션
+
+### long-term Goal
+Carbon emition Prediction Solution
+
+### short-term Goal
+data Analysis
 
 ### data from...
 - https://www.kaggle.com/datasets/dommatap/obd-dataset
