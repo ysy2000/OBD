@@ -1,11 +1,5 @@
 # OBD
 
-### long-term Goal
-Carbon emition Prediction Solution
-
-### short-term Goal
-data Analysis
-
 ### data from...
 - https://www.kaggle.com/datasets/dommatap/obd-dataset
 - https://www.kaggle.com/datasets/cephasax/obdii-ds3
